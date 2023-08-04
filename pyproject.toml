@@ -26,9 +26,6 @@ classifiers = [
 ]
 urls = {Homepage = "https://github.com/jsocol/pystatsd"}
 
-[tool.distutils.bdist_wheel]
-universal = 1
-
 [tool.setuptools]
 include-package-data = true
 
